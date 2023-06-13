@@ -1,6 +1,6 @@
 Locales['sr'] = {
   ['ooc_prefix'] = 'OOC | %s',
-  ['twt_help'] = 'posalji tweet',
+  ['twt_help'] = 'pošalji tweet',
   ['twt_prefix'] = '^0[^4Twitter^0] (^5@%s^0)',
   ['me_help'] = 'personalne akcije',
   ['me_prefix'] = 'me | %s',
