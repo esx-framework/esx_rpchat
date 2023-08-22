@@ -78,7 +78,7 @@ function GetRealPlayerName(playerId)
 				return xPlayer.getName()
 			end
 		else
-			return xPlayer.getName()
+			return GetPlayerName(playerId)
 		end
 	else
 		return GetPlayerName(playerId)
