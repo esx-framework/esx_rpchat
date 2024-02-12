@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX RP Chat'
+description 'Adds Command for RP, such as: /me, /do, /OOC and more'
 lua54 'yes'
 
 version '1.0'
